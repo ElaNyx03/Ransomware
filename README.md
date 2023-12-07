@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <img width="200%" src="hr.gif" />
-<img width="30%" src="https://media1.tenor.com/m/glJTnrs3k4AAAAAC/virus-glitch.gif"/>
+<img width="30%" src="https://media.tenor.com/glJTnrs3k4AAAAAM/virus-glitch.gif"/>
 
 
  
