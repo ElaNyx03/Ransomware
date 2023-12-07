@@ -67,7 +67,7 @@ Questa cartella ha anche 2 cartelle figlio con esattamente lo stesso file per mo
 <img width="200%" src="hr.gif" />
 Disclaimer legale
 
-✎ L'uso di sms-anonime per attaccare gli obiettivi senza il consenso reciproco è illegale. E' responsabilità dell'utente finale obbedire a tutte le leggi locali, statali e federali applicabili. Gli sviluppatori non si assumono alcuna responsabilità e non sono responsabili per qualsiasi uso improprio o danno causato da questo programma...꙳ Grazie e buon uso ꙳...
+✎ L'uso del programma per attaccare gli obiettivi senza il consenso reciproco è illegale. E' responsabilità dell'utente finale obbedire a tutte le leggi locali, statali e federali applicabili. Gli sviluppatori non si assumono alcuna responsabilità e non sono responsabili per qualsiasi uso improprio o danno causato da questo programma...꙳ Grazie e buon uso ꙳...
 
 <img width="200%" src="hr.gif" />
 <div align="center">
